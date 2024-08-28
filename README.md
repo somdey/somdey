@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somdey
 - 👀 I’m interested in Node.js, Python, Kubernetes.
-- 🌱 I’m currently learning Golang, Istio and Spinnaker.
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Cloud Native solutions.
 - 📫 How to reach me: somnath2prl@gmail.com
 
